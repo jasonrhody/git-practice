@@ -2,4 +2,4 @@
 
 Read me. I'm obliged.
 
-This concludes the read me file.
+This concludes the readme file.
